@@ -6,7 +6,7 @@
 
 <br>
 
-## My First Account 👉 <a href="https://github.com/Khojiakbar07" target="_blank">Khojiakbar07</a>
+## My First Account 👉 <a href="https://github.com/Khojiakbar07" target="_blank" style="color:white">Khojiakbar07</a>
 
 <h3 align="left"> 🌐Connect with me:</h3>
 <div align="center"> 
