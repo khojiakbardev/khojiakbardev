@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+CSharp+developer;I'm+.NET+developer;)](#)
 
+<br>
+
+## My First Account 👉 <a href="https://github.com/Khojiakbar07" target="_blank">Khojiakbar07</a>
+
 <h3 align="left"> 🌐Connect with me:</h3>
 <div align="center"> 
 
@@ -23,15 +27,7 @@
 </div>
 </div>
 
-###
 
-<h1></h1>
-
-###
-
-<div align="center">
-<img src="https://github.com/Hirushan-N/Hirushan-N/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-<div>
   
 ###
 
