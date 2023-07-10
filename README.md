@@ -6,6 +6,14 @@
 
 <br>
 
+<div align="center">
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api?username=khojiakbardev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" alt="stats graph"  />
+  <img height="auto" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=khojiakbardev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" alt="languages graph"  />
+  <img height="60%" width="60%" src="https://streak-stats.demolab.com?user=khojiakbardev&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=40&date_format=M j[, Y]&order=3" alt="streak graph"  />
+</div>
+
+<br>
+
  ## My First Account 👉 <a href="https://github.com/Khojiakbar07" target="_blank" style="color:white">Khojiakbar07</a>
 
 <br>
